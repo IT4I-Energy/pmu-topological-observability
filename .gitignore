@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+PMUv1report.docx
+benchmarks/report_model.json
+tools/build_report.py
+tools/render_report.js
+
+.~*
+~$*
+*.docx

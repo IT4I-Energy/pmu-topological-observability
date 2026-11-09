@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+type: software
+title: "PMU: Optimal PMU Placement for Power-System Observability"
+authors:
+  - family-names: Hurtgen
+    given-names: M.
+  - family-names: Praks
+    given-names: P.
+repository-code: "https://github.com/mhurtgen/PMU"
+url: "https://github.com/mhurtgen/PMU"
+license: CC-BY-4.0
+keywords:
+  - phasor measurement unit
+  - power-system observability
+  - optimal placement
+  - iterated local search
+  - zero-injection bus
+  - power systems

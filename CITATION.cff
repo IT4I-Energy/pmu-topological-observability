@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+type: software
+title: "PMU: Topological observability framework for optimal PMU placement"
+authors:
+  - family-names: Hurtgen
+    given-names: M.
+  - family-names: Praks
+    given-names: P.
+repository-code: "https://github.com/IT4I-Energy/pmu-topological-observability"
+url: "https://github.com/IT4I-Energy/pmu-topological-observability"
+license: CC-BY-4.0
+keywords:
+  - phasor measurement unit
+  - topological observability
+  - graph-based optimization
+  - synchrophasor measurement
+  - iterated local search
+  - zero-injection bus
